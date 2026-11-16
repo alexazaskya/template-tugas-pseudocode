@@ -26,14 +26,17 @@ Jelaskan tujuan dan manfaat program yang dibuat.
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
-1. INPUT:
+1. DEKLARASI 
+   Tuliskan deklarasi yang dibuat
+
+2. INPUT:
    Tuliskan data yang dimasukkan pengguna.
 
-2. PROSES:
+3. PROSES:
    Tuliskan langkah pengolahan atau perhitungan
    yang dilakukan program.
 
-3. OUTPUT:
+4. OUTPUT:
    Tuliskan hasil yang akan ditampilkan program.
 
 F. ALGORITMA / PSEUDOCODE
