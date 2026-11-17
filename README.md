@@ -14,7 +14,7 @@ Kamu dapat menulis, menjalankan, dan menguji program C++ langsung melalui browse
 
 ### Petunjuk Menggunakan Compiler
 
-1. Klik tautan **Buka Compiler C++** di atas.
+1. Klik tautan **Buka Compiler C++** di atas dengan cara klik kanan lalu pilih open link new tab.
 2. Pastikan bahasa yang dipilih adalah C++.
 3. Tulis atau tempel kode program pada bagian editor sebelah kiri.
 4. Klik tombol **Run** untuk menjalankan program.
